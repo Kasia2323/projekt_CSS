@@ -84,11 +84,8 @@ nav a {
         display: flex;
         justify-content: center;
     }
-} */
-* {
-    margin: 0;
-    padding: 0;
 }
+
 main {
     display: flex;
     justify-content: center;
@@ -99,7 +96,7 @@ main {
 
 section {
     flex-basis: 280px;
-    border: 2px solid black;
+    border: 40px solid blue;
     margin: 20px;
 }
 
@@ -107,4 +104,5 @@ section p {
     text-align: justify;
     text-indent: 20px;
     padding: 10px;
+    margin: 
 }
